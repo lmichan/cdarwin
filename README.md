@@ -13,9 +13,14 @@ El proyecto CDarwin es una investigación digital que consiste en un conjunto de
 **Las herramientas:** Software, Internet, Laptop, Tableta, teléfono inteligente y algunos accesorios.
 
 **Las aplicaciones:**
+
 Correo electrónico:	cdarwin@bioinformacion.org
+
 Tablero de marcadores: https://start.me/p/QL4njR/charles-darwin
+
 Gestor de bibliografía: https://www.zotero.org/darwincharles
+
+Anotador social ysemántico: https://hypothes.is/search?q=tag%3A%22cdrwn%22
 
 
 
