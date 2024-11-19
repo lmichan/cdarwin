@@ -10,6 +10,8 @@ El proyecto CDarwin es una investigación digital que consiste en un conjunto de
 
 **El enfoque:** bioinformación = información + biología
 
+**La tecnología:** Queremos utilizar métodos como revisión de literatura, cienciometría, web semántica, mapas de conocimiento y Wikidata, por mencionar algunas
+
 **Las herramientas:** Software, Internet, Laptop, Tableta, teléfono inteligente y algunos accesorios.
 
 **Las aplicaciones:**
