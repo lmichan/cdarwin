@@ -35,3 +35,5 @@ la Web sobre Charles Darwin
 4. Describir como el nuevo conocimiento se genera y transmite por medio de la literatura producto de investigación.
 
 5. Hacer una revisión de literatura sobre las distintas maneras en las que se han estudiado los textos de Darwin.
+
+6. Indagar cómo la investigación digital ha transformado la forma en la que interactuamos con la bioinformación.
