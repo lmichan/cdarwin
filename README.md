@@ -1,5 +1,5 @@
 # Proyecto CDarwin
-Presentación de [Biocolores Wikidata](https://docs.google.com/presentation/d/1S_BmvXSfDW3HgZ4WSKolrpRMJb4gZgCEnFogwfDhRqI/edit?usp=sharing)
+Presentación de []()
 
 
 El proyecto CDarwin es una investigación digital que consiste en un conjunto de experimentos de información, literatura, datos y procesamiento informático sobre Charles Darwin
