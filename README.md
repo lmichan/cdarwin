@@ -1,5 +1,5 @@
 # Proyecto CDarwin
-Presentación de []()
+Presentación []()
 
 
 El proyecto CDarwin es una investigación digital que consiste en un conjunto de experimentos de información, literatura, datos y procesamiento informático sobre Charles Darwin
@@ -24,5 +24,9 @@ Gestor de bibliografía: https://www.zotero.org/darwincharles
 
 Anotador social ysemántico: https://hypothes.is/search?q=tag%3A%22cdrwn%22
 
-
-
+**Objetivos:**
+Reunir las fuentes primarias disponibles en
+la Web sobre Charles Darwin
+Integrar, sistematizar, clasificar, describir y analizar la información, la literatura y los datos producto de investigación sobre el naturalista Charles Darwin
+Utilizar herramientas informáticas abiertas y adecuadas para procesar la información.
+Describir como el nuevo conocimiento se genera y transmite por medio de la literatura producto de investigación.
