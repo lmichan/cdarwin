@@ -22,6 +22,8 @@ Tablero de marcadores: https://start.me/p/QL4njR/charles-darwin
 
 Gestor de bibliografía: https://www.zotero.org/darwincharles
 
+colección de literatura académica: Textos sobre los distintos enfoques en los que ha Charles Darwin ha tenido un efecto decisivo
+
 Anotador social ysemántico: https://hypothes.is/search?q=tag%3A%22cdrwn%22
 
 **Objetivos:**
